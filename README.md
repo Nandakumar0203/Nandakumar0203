@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Nandakumar
 - 👀 I’m interested in Front end development
 - 🌱 I’m currently learning Front end
-- 💞
 - 📫 How to reach me: nandakumaar2002@gmail.com
 
 <!---
